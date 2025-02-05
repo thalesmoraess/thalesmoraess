@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Thales Moraes de Souza, tenho 20 anos e sou natural do Guarujá. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISANTOS. Sou apaixonado por tecnologia e compartilho um pouco do meu conhecimento através deste repositório.
+Me chamo Thales Moraes de Souza, tenho 20 anos e sou natural do Guarujá. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNISANTOS. Sou apaixonado por tecnologia e compartilho um pouco do meu conhecimento através deste portfólio.
 
 ---
 
